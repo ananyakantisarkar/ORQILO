@@ -14,23 +14,23 @@ From resume intelligence and ATS analysis to job discovery, career planning, and
 
 ### AI Career Dashboard
 
-![ORQILO Dashboard](assets/ORQILO%20Dashboard.jpg)
+![ORQILO Dashboard](./assets/dashboard.jpg)
 
 ### Resume Intelligence
 
-![ORQILO Resume](assets/ORQILO%20Resume%20Section.png)
+![ORQILO Resume](./assets/resume.png)
 
 ### Career Pivot Intelligence
 
-![ORQILO Career Pivot](assets/ORQILO%20Career%20Pivot%20Section.png)
+![ORQILO Career Pivot](./assets/career-pivot.png)
 
 ### AI Learning Center
 
-![ORQILO Learning Center](assets/ORQILO%20Learning%20Center%20Section.png)
+![ORQILO Learning Center](./assets/learning-center.png)
 
 ### Market Intelligence
 
-![ORQILO Market Intelligence](assets/ORQILO%20Market%20Intel%20Section.png)
+![ORQILO Market Intelligence](./assets/market-intelligence.png)
 
 ---
 
@@ -233,9 +233,7 @@ The ORQILO ecosystem is built around modern web, AI, and automation technologies
 
 See ORQILO in action:
 
-**[▶ Watch ORQILO Demo](https://orqilo.in)**
-
-> Replace the link above with your actual YouTube demo URL when ready.
+▶️ **[Watch ORQILO Demo on YouTube](https://www.youtube.com/watch?v=yWnlpq3TjSI)**
 
 ---
 
